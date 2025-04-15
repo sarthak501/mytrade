@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables and credentials
+.env
+*.env
+*.secret
+secrets.json
+
+# Log files
+*.log
+news_scraper.log
+
+# PDF outputs
+*.pdf
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# VSCode settings (if using VSCode)
+.vscode/
+
+# Pytest and coverage
+.cache/
+.coverage
+.pytest_cache/
+
+# Misc
+*.bak
+*.tmp
